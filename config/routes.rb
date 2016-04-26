@@ -1,8 +1,9 @@
 Nomster::Application.routes.draw do
 
-root 'places#index'
+  devise_for :users
+  root 'places#index'
 
-resources :places
+  resources :places
 
 
   # The priority is based upon order of creation: first created -> highest priority.
