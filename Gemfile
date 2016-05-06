@@ -38,6 +38,8 @@ gem 'sprockets', '2.11.0'
 gem 'kaminari'
 gem 'simple_form'
 gem 'devise', '>= 3.2.4'
+gem 'geocoder'
+gem 'figaro'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
