@@ -1,6 +1,6 @@
 <b>NOMSTER</b>
 
-Nomster is a Yelp-style clone built using Ruby on Rails 4.0.  The front-end is built with Twitter Bootstrap 3.  Viewers can retrieve a list of places within in area, with corresponding descriptions, photos, maps, and comments.  Registered users can create their own places, make comments on any places, upload photos to their places, and edit or delete their places.  
+Nomster is a Yelp-style clone built using Ruby on Rails 4.0.  The front-end is built with Twitter Bootstrap 3.  Viewers can retrieve a list of places with corresponding descriptions, photos, maps, and comments.  Registered users can create their own places, make comments on any places, upload photos to their places, and edit or delete their places.  
 
 <b>GEMS</b>
 
