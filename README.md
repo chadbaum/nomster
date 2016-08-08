@@ -2,7 +2,7 @@
 Nomster
 =======
 
-Nomster is a directory built using Ruby on Rails 4.0 for listing, searching, and reviewing places.  The front-end is built with Twitter Bootstrap 3.  Viewers can retrieve a list of places with corresponding descriptions, photos, maps, and comments.  Registered users can create their own places, make comments on any places, upload photos to their places, and edit or delete their places.  
+Nomster is a directory built using Ruby on Rails 4.0 for listing, searching, and reviewing places.  The front-end is built with Twitter Bootstrap 3.  Viewers can retrieve a list of places with corresponding descriptions, photos, maps, and comments.  Registered users can create their own places, make comments on any places, upload photos to their places, and edit or delete their places.  Consumes the Google Map API to draw a map of the area with the correct geocoded address of a place represented as a pin.
 
 Dependencies
 ============
