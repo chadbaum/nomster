@@ -6,16 +6,16 @@ Nomster is a Yelp-style clone built using Ruby on Rails 4.0.  The front-end is b
 
 Dependencies
 ============
-<b>Devise</b>: user authentication
+Devise: user authentication
 
-<b>Carrierwave</b>: image uploads for place photos
+Carrierwave: image uploads for place photos
 
-<b>Kaminari</b>: pagination for places list
+Kaminari: pagination for places list
 
-<b>Simple Form</b>: faster form generation
+Simple Form: faster form generation
 
-<b>Geocoder</b>: converting addresses to latitude and longitude for pinning on a map, used to connect to Bing street service API
+Geocoder: converting addresses to latitude and longitude for pinning on a map, used to connect to Bing street service API
 
-<b>Figaro</b>: secure API keys in ENV variable
+Figaro: secure API keys in ENV variable
 
-<b>Fog</b>: used to store images on Amazon EC2
+Fog: used to store images on Amazon S3
