@@ -6,9 +6,6 @@ Nomster is a Yelp-style clone built using Ruby on Rails 4.0.  The front-end is b
 
 Dependencies
 ============
-
-Nomster makes uses of the following gems:
-
 <b>Devise</b>: user authentication
 
 <b>Carrierwave</b>: image uploads for place photos
